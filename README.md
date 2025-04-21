@@ -11,6 +11,7 @@ Compose Desktop的仿网易云桌面应用[NCMusicDesktop](https://github.com/ss
 ![img](https://github.com/sskEvan/NCMusicHarmony/blob/master/screenshot/广场.gif)
 ![img](https://github.com/sskEvan/NCMusicHarmony/blob/master/screenshot/音乐播放.gif)
 ![img](https://github.com/sskEvan/NCMusicHarmony/blob/master/screenshot/主题切换.gif)
+![image](https://github.com/user-attachments/assets/58c761fb-b79c-4ba3-be11-f33d3da296b8)
 
 ### 状态管理
 先简单概括一下ArkUI中的状态管理
